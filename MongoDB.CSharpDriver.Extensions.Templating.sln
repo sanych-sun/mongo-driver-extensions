@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoDB.CSharpDriver.Extensions.Templating", "MongoDB.CSharpDriver.Extensions.Templating\MongoDB.CSharpDriver.Extensions.Templating.csproj", "{DF723110-1B6A-40E3-8E4B-D10FE3C569A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoDB.CSharpDriver.Extensions.Templating.Tests", "MongoDB.CSharpDriver.Extensions.Templating.Tests\MongoDB.CSharpDriver.Extensions.Templating.Tests.csproj", "{5B49F47F-8AF1-483B-8B67-C3FEEAB68348}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF723110-1B6A-40E3-8E4B-D10FE3C569A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF723110-1B6A-40E3-8E4B-D10FE3C569A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF723110-1B6A-40E3-8E4B-D10FE3C569A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF723110-1B6A-40E3-8E4B-D10FE3C569A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B49F47F-8AF1-483B-8B67-C3FEEAB68348}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B49F47F-8AF1-483B-8B67-C3FEEAB68348}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B49F47F-8AF1-483B-8B67-C3FEEAB68348}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B49F47F-8AF1-483B-8B67-C3FEEAB68348}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
